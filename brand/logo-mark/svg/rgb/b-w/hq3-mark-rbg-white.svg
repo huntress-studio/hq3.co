@@ -1,1 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 649 649"><circle cx="324" cy="326" r="200" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:50px;stroke-dasharray:283.0376281738281,135.85804748535156"/><circle cx="324.5" cy="324.5" r="299.5" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:50px"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 649 649">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <path class="cls-1" d="M500,726h0a224.22,224.22,0,0,1-174.8-83.32A25,25,0,0,1,364,611.18a175.09,175.09,0,0,0,223.66,41.3,25,25,0,0,1,25.1,43.25A225,225,0,0,1,500,726ZM686.74,597.75a25,25,0,0,1-23.33-34,175.09,175.09,0,0,0-76-214.44,25,25,0,0,1,25-43.3,225.25,225.25,0,0,1,97.69,275.68A25,25,0,0,1,686.74,597.75ZM300,526.42a25,25,0,0,1-25-24.92V501A225,225,0,0,1,465,278.7a25,25,0,0,1,7.72,49.41A175,175,0,0,0,325,501v.33a25,25,0,0,1-24.91,25.09Z" transform="translate(-176 -175)"/>
+    <path class="cls-1" d="M500.5,824A324.49,324.49,0,1,1,730,729,322.38,322.38,0,0,1,500.5,824Zm0-599a274.5,274.5,0,1,0,194.1,80.4A272.7,272.7,0,0,0,500.5,225Z" transform="translate(-176 -175)"/>
+</svg>
